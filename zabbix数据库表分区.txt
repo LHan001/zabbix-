@@ -1,4 +1,4 @@
-仅供参考 By Han @
+仅供参考 By Han
 
 1、首先登陆zabbix数据库；
 
